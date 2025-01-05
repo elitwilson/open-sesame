@@ -76,6 +76,11 @@ public class SwingingDoorController : MonoBehaviour
         }
         lerpCoroutine = StartCoroutine(LerpDoor(targetNormalizedValue, duration));
     }
+
+    public void Interact()
+    {
+        // Interaction logic here....
+    }
     #endregion
 
     #region Private Methods
