@@ -1,0 +1,17 @@
+{
+    "name": "com.charlo-dev.open-sesame",
+    "version": "0.1.0",
+    "displayName": "OpenSesame",
+    "description": "A reusable module for door interactions and states.",
+    "unity": "2021.3",
+    "dependencies": {},
+    "author": {
+      "name": "Eli Wilson",
+      "email": "elitwilson@gmail.com",
+      "url": "https://github.com/elitwilson"
+    },
+    "keywords": ["door", "interaction", "module"],
+    "license": "MIT",
+    "category": "Tools"
+  }
+  
